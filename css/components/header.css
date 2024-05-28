@@ -97,6 +97,7 @@ header {
     line-height: 40%;
     text-align: center;
     color: #fff;
+    margin-top: 1rem;
 }
 
 .header-price_old {
@@ -124,7 +125,8 @@ header {
     font-family: var(--third-family);
     font-weight: 700;
     font-size: 3.5rem;
-    line-height: 100%;
+    line-height: 114%;
+    margin-top: 0.7rem;
     color: #989898;
 }
 
