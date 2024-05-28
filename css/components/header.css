@@ -133,7 +133,7 @@ header {
 .header-price_old p:before {
     content: "";
     display: block;
-    border: 0.5px solid #f00;
+    border: 0.7px solid #f00;
     width: 4.2rem;
     height: 0rem;
     left: 0rem;
