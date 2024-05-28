@@ -33,7 +33,7 @@
 }
 
 .receipts-slider .slick-next {
-    transform: translateY(-50%) rotate(180deg);
+    transform: translateY(-50%) scaleX(-1);
 } 
 
 .receipts-slider .slick-next:before,
